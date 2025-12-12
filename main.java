@@ -6,5 +6,6 @@ public class main {
         System.out.println("hello ");
         System.out.println("hello dev");
         System.out.println(new Date());
+        System.out.println("new commit");
     }
 }
